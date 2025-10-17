@@ -10,3 +10,4 @@ import './styles/schedule.css';
 
 // Módulos JS
 import './modules/form/submit.js';
+import './modules/load.js';
