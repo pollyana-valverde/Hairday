@@ -2,7 +2,6 @@ import dayjs from "dayjs";
 
 import {scheduleNew} from '../../services/schedule-new.js';
 import {schedulesDay} from '../schedules/load.js';
-import { cli } from "webpack-dev-server";
 
 const form = document.querySelector('form');
 const clientName = document.querySelector('#client')
