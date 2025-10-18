@@ -1,3 +1,9 @@
 {
-    "schedules": []
+  "schedules": [
+    {
+      "id": 1760796972995,
+      "name": "Pollyana",
+      "when": "2025-10-18T15:00:00.000Z"
+    }
+  ]
 }
