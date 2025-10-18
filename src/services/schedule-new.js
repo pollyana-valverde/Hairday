@@ -9,13 +9,13 @@ export async function scheduleNew({id, name, when}) {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({id, name, when}),
-        })
+        });
         
         // Exibe mensagemm de agendamento realizado.
-        alert("Agendamento realizado com sucesso!")
+        alert("Agendamento realizado com sucesso!");
 
     } catch (error) {
-        console.log(error)
-        alert("Não foi possível agendar. Tente novamente mais tarde.")
-    }
-}
+        console.log(error);
+        alert("Não foi possível agendar. Tente novamente mais tarde.");
+    };
+};
