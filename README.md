@@ -12,7 +12,7 @@
 
 ## 📸 Demonstração
 
-![preview do projeto](./src/assets/preview.png)
+![preview do projeto](./dist/src/assets/preview.png)
 
 ---
 
